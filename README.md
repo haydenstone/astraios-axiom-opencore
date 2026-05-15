@@ -23,7 +23,7 @@ We operate on a **101% Reality** math, ensuring the "Grace Margin" is always act
 
 ### The Mathematics of Grace
 
-$$\text{Total Authority} = (\text{Trinity Stake}_{50.9\%}) + (\text{DNA Stake}_{50.1\%})$$
+Total Authority = {Trinity Stake}_{50.9%}) + {DNA Stake}_{50.1%}
 
 * **50.9% | The Trinity Anchor:** Held by the Founders and the Creator. This is the **Super Root** authority that ensures the mission remains uncorrupted.
 * **50.1% | The Innate Inheritance:** Automatically vested in every human soul. You don't join; you are born a shareholder.
